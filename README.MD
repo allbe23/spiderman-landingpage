@@ -1,6 +1,6 @@
 # LANDPAGING - SPIDERMAN
 
-<img src="img/spidermam.site.png" alt="">
+<img src="img/spiderman-site.png" alt="">
 
 # LINK PARA O WEBSITE
 
